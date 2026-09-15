@@ -14,6 +14,18 @@
 
 日常编辑请用 Desk 打开本仓库，不要再用 `@tnotesjs/core` / VitePress。
 
+## Desk 使用说明
+
+以下参考以 2026-09-15 的 Desk 0.8.2 源码为基线，区分可视化编辑、源码编辑与发布站点；TOC 中暂保留未完成状态，供后续人工审阅。
+
+- [快速上手与阅读入口](notes/0043.%20Desk%20使用说明入口与快速上手.md)
+- [Markdown 语法](notes/0044.%20Desk%20支持的%20Markdown%20语法.md) · [扩展语法与组件](notes/0045.%20Desk%20扩展语法与组件.md)
+- [Desk 命令与快捷键](notes/0046.%20Desk%20命令与快捷键.md) · [CLI 命令](notes/0047.%20TNotes%20CLI%20命令参考.md)
+- [应用设置](notes/0048.%20Desk%20应用设置参考.md) · [知识库与笔记配置](notes/0049.%20知识库与笔记配置参考.md)
+- [历史说明修订对照](notes/0050.%20Desk%20历史说明修订对照.md)
+
+旧 core 教程和历史截图仍保留；与上述参考冲突时，以当前实现及对应版本说明为准。
+
 ## `TNotes.xxx` 知识库
 
 每个主题一个独立 git 仓库。已迁移的库用 Desk 打开；未迁移的库仍是旧的 VitePress + core 布局。
@@ -63,9 +75,9 @@
 
 [1]: https://github.com/tnotesjs/TNotes.docs
 [2]: https://tnotesjs.github.io/TNotes.docs/
-[3]: https://github.com/tnotesjs/desk
-[4]: https://github.com/tnotesjs/kb
-[5]: https://github.com/tnotesjs/ssg
+[3]: https://github.com/tnotesjs/tnotes/tree/main/apps/desk
+[4]: https://github.com/tnotesjs/tnotes/tree/main/packages/kb
+[5]: https://github.com/tnotesjs/tnotes/tree/main/packages/ssg
 
 <!-- tnotesjs repos link -->
 
