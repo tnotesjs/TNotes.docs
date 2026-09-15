@@ -69,7 +69,7 @@
 
 <!-- tnotesjs repos link -->
 
-[TNotes]: https://tnotesjs.github.io/TNotes/
+[TNotes]: https://tnotesjs.github.io/TNotes.root/
 [TNotes.algorithms]: https://tnotesjs.github.io/TNotes.algorithms/
 [TNotes.c]: https://tnotesjs.github.io/TNotes.c/
 [TNotes.canvas]: https://tnotesjs.github.io/TNotes.canvas/
